@@ -7,12 +7,11 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on 🌦️ getting acclimated to GitHub!
+- 🔭 I’m currently working on CS Release Readiness
 - 🌱 I’m currently learning 🇵🇱 Polish and 🐍 Python
 - 👯 I’m looking to collaborate on PMO projects
-<!-- 🤔 I’m looking for help with ...
-- 💬 Ask me about
--->
+<!--> 🤔 I’m looking for help with ...
+- 💬 Ask me about Copilot Top Support Issues
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: training for a 🏊‍♂️ 🚴‍♂️ 🏃‍♂️ triathlon!
+- ⚡ Fun fact: training for a 🏃‍♂️ marathon!
 
