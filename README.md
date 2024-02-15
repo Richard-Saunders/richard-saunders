@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on CS Release Readiness
 - 🌱 I’m currently learning 🇵🇱 Polish and 🐍 Python
-- 👯 I’m looking to collaborate on PMO projects
+- 👯 I’m looking to collaborate on impactful releases
 <!--> 🤔 I’m looking for help with ...
-- 💬 Ask me about Copilot Top Support Issues
+- 💬 Ask me about Copilot
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: training for a 🏃‍♂️ marathon!
+- ⚡ Fun fact: recently adopted 😼😹!
 
