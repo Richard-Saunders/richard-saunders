@@ -7,11 +7,11 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on CS Release Readiness
+- 🔭 I’m currently working on CS Business Operations
 - 🌱 I’m currently learning 🇵🇱 Polish and 🐍 Python
-- 👯 I’m looking to collaborate on impactful releases
+- 👯 I’m looking to collaborate on Customer Success Engineering
 <!--> 🤔 I’m looking for help with ...
-- 💬 Ask me about Copilot
+<!--> 💬 Ask me about Copilot
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: recently adopted 😼😹!
+- ⚡ Fun fact: just visited Hawaii 🌴!
 
